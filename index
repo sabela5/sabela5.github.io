@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SS BB - CV</title>
+    <title>Saba Teklay</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>SS BB</h1>
+            <h1>Saba Teklay</h1>
             <p>System Development | Cybersecurity Trainee | Project Coordinator</p>
         </div>
     </header>
@@ -27,8 +27,8 @@
         <section id="contact" class="contact-info">
             <h2>Contact Information</h2>
             <p><strong>Phone:</strong> (+32) (Mobile)</p>
-            <p><strong>Email:</strong> <a href="mailto:almi@gmail.com">almi@gmail.com</a></p>
-            <p><strong>Address:</strong> SS, 3500, Hasselt, Belgium</p>
+            <p><strong>Email:</strong> <a href="mailto:almi@gmail.com">@gmail.com</a></p>
+            <p><strong>Address:</strong> 3500, Hasselt, Belgium</p>
         </section>
 
         <section id="experience">
